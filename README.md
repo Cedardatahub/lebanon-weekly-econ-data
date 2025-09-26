@@ -36,5 +36,5 @@ Weekly (updated every Sunday).
 This dataset is published on Ocean Protocol under the **CC BY 4.0 License** (free to use with attribution).
 
 ## Contact
-For inquiries or collaborations: [Your Email or Telegram]
+For inquiries or collaborations: [ceadrdatahub@gmail.com]
 
